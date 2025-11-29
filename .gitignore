@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#Projects igonre
+task_1/assets/ex_1/*
+!task_1/assets/ex_1/.gitkeep
